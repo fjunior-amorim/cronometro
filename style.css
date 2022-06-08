@@ -30,7 +30,7 @@ section {
 }
 .titulo {
     margin-top: 30px;
-    font-family: 'dasher', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 3.5em;
     letter-spacing: 2px;
     color: white;
@@ -218,7 +218,7 @@ section {
     text-align: center;
     font-size: 2.5em;
     padding-top: 0px;
-    font-family: 'dasher';
+    font-family: 'Nunito', sans-serif;
     letter-spacing: 3px;
     color: rgb(19, 19, 19);
 }
