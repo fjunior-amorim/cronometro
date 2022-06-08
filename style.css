@@ -1,9 +1,14 @@
 /*=========== base =============*/
+@import url(//db.onlinewebfonts.com/c/938a137f4b8ad1e84f68e5cd459c03e8?family=MD+Dasher);
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,800;0,900;1,900&display=swap');
 @font-face {
-    font-family: 'dasher';
-    src: url(/font/md_dasher/MD_Dasher_Regular.ttf);
-}
+    font-family: "dasher";
+    src: url("//db.onlinewebfonts.com/t/938a137f4b8ad1e84f68e5cd459c03e8.eot");
+    src: url("//db.onlinewebfonts.com/t/938a137f4b8ad1e84f68e5cd459c03e8.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/938a137f4b8ad1e824f68e5cd459c03e8.woff") format("woff2"),
+    url("//db.onlinewebfonts.com/t/938a137f4b8ad1e84f68e5cd459c03e8.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/938a137f4b8ad1e84f68e5cd459c03e8.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/938a137f4b8ad1e84f68e5cd459c03e8.svg#MD Dasher") format("svg");}
 * {
     margin: 0;
     padding: 0;
